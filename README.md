@@ -18,10 +18,7 @@ https://github-readme-streak-stats.herokuapp.com/?user=cctrunz
 
 # replace username with your own or change theme
 ## Stats📈
-<p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=#cctrunz&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#your-username" /> 
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=#cctrunz&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#your-username" />
+[![Celia's github stats](https://github-readme-stats.vercel.app/api?username=cctrunz&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=#cctrunz&theme=highcontrast&hide_border=true" alt="#your-username" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cctrunz)](https://github.com/anuraghazra/github-readme-stats)
