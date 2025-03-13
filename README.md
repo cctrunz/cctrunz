@@ -8,8 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on GPS data processing
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cctrunz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cctrunz)](https://git.io/streak-stats)
 
 ### :fire: My Stats :
 https://github-readme-streak-stats.herokuapp.com/?user=cctrunz
